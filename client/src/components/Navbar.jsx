@@ -19,7 +19,7 @@ export default function Navbar() {
 
   return (
     <nav>
-      <Link to="/" className="nav-logo">AntigravityBlog</Link>
+      <Link to="/" className="nav-logo">Noni Blog</Link>
       <div className="nav-links">
         {currentUser ? (
           <>
